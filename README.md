@@ -6,6 +6,7 @@ Actividades del primer periodo
 - [Tarea 2](Tarea%202/)
 - [Tarea 3](Tarea%203/)
 - [Tarea 4](Tarea%204/)
+- [Tarea 6](Tarea%206/)
 
 # Marzo
 Actividades del segundo periodo
