@@ -8,6 +8,7 @@ Actividades del primer periodo
 - [Tarea 4](Tarea%204/)
 - [Tarea 6](Tarea%206/)
 - [Tarea 7](Act7_ValeriaRodriguez.pdf)
+- [Tarea 8](Act8_ValeriaRodriguez.pdf)
 
 # Marzo
 Actividades del segundo periodo
